@@ -2,9 +2,6 @@ import time
 
 from get_exchange_rate import get_exchange_rate
 
-# print("Enter a dollar amount in AUD...")
-# print("then I'll convert it to PHP")
-
 currency_from = input("What currency would you like to convert from: e.g. AUD, PHP etc.")
 currency_to = input("What current would you like to convert to?")
 
